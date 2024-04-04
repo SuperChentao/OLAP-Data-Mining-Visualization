@@ -1,0 +1,5 @@
+surrogate key,status
+1,below_0
+2,below_200
+3,no_cheking_acc
+4,above:200
